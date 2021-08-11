@@ -1,12 +1,9 @@
 import discord
-import os
 from discord import embeds
 from discord.utils import find
 import requests
 from messages import *
-from dotenv import load_dotenv
-load_dotenv()
-
+import os
 
 
 color=0xF44656
